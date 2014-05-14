@@ -1,5 +1,5 @@
-MLP-Emoji-SlackHQ
-=================
+Add MLP Emoji to SlackHQ
+========================
 
 I needed MLP emoji for my company's Slack. So I made them. Thanks to @SteveStreza for pointing me to [/r/mylittlepony/](http://www.reddit.com/r/mylittlepony/).
 
