@@ -7,4 +7,4 @@ I needed MLP emoji for my company's Slack. So I made them. Thanks to @SteveStrez
 
 I have given each icon a title that I find suitable for use in Slack. If you think it deserves a better title, or you want to add more icons to the set, please submit a pull request and we'll get it taken care of.
 
-![Ah yes, sweet success.](http://cl.ly/image/2h2Y120J2Y3c "Success.")
+![Ah yes, sweet success.](http://cl.ly/image/2h2Y120J2Y3c/mlp_emoji_success.png "Success.")
