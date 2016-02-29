@@ -1,0 +1,401 @@
+title: RedditMyLittlePony
+# These links should be converted to the primary fork or hosted elsewhere
+emojis:
+  - name: abbored
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/abbored.png
+  - name: abhuh
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/abhuh.png
+  - name: abmeh
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/abmeh.png
+  - name: absmile
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/absmile.png
+  - name: abstern
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/abstern.png
+  - name: abwut
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/abwut.png
+  - name: ajbaffle
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/ajbaffle.png
+  - name: ajcower
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/ajcower.png
+  - name: ajcry
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/ajcry.png
+  - name: ajdoubt
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/ajdoubt.png
+  - name: ajfrown
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/ajfrown.png
+  - name: ajhappy
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/ajhappy.png
+  - name: ajlie
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/ajlie.png
+  - name: ajsly
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/ajsly.png
+  - name: ajsup
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/ajsup.png
+  - name: ajugh
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/ajugh.png
+  - name: ajwut
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/ajwut.png
+  - name: allmybits
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/allmybits.png
+  - name: angel
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/angel.png
+  - name: apathia
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/apathia.png
+  - name: applederp
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/applederp.png
+  - name: applegasp
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/applegasp.png
+  - name: awwyeah
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/awwyeah.png
+  - name: bonbon
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/bonbon.png
+  - name: bulkbiceps
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/bulkbiceps.png
+  - name: cadance
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/cadance.png
+  - name: cadencesmile
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/cadencesmile.png
+  - name: celestiamad
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/celestiamad.png
+  - name: celestia
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/celestia.png
+  - name: celestiawut
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/celestiawut.png
+  - name: changeling
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/changeling.png
+  - name: cheerilee
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/cheerilee.png
+  - name: chrysalis
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/chrysalis.png
+  - name: cockatrice
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/cockatrice.png
+  - name: cocosmile
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/cocosmile.png
+  - name: colgate
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/colgate.png
+  - name: cutealoo
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/cutealoo.png
+  - name: dealwithit
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/dealwithit.png
+  - name: derp
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/derp.png
+  - name: derpwizard
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/derpwizard.png
+  - name: derpyhappy
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/derpyhappy.png
+  - name: derpyshock
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/derpyshock.png
+  - name: diamondtiara
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/diamondtiara.png
+  - name: discentia
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/discentia.png
+  - name: discordgrump
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/discordgrump.png
+  - name: discordsad
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/discordsad.png
+  - name: dj
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/dj.png
+  - name: dumbfabric
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/dumbfabric.png
+  - name: eeyup
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/eeyup.png
+  - name: fabulous
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/fabulous.png
+  - name: facehoof
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/facehoof.png
+  - name: fillytgap
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/fillytgap.png
+  - name: flamflim
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/flamflim.png
+  - name: flimflam
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/flimflam.png
+  - name: flutterblush
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/flutterblush.png
+  - name: fluttercry
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/fluttercry.png
+  - name: flutterfear
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/flutterfear.png
+  - name: flutterhay
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/flutterhay.png
+  - name: flutterjerk
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/flutterjerk.png
+  - name: flutterkay
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/flutterkay.png
+  - name: flutternice
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/flutternice.png
+  - name: flutterroll
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/flutterroll.png
+  - name: fluttershh
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/fluttershh.png
+  - name: fluttershy
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/fluttershy.png
+  - name: fluttersrs
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/fluttersrs.png
+  - name: flutterwhoa
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/flutterwhoa.png
+  - name: flutterwink
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/flutterwink.png
+  - name: flutteryay
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/flutteryay.png
+  - name: gilda
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/gilda.png
+  - name: goodjob
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/goodjob.png
+  - name: grannysmith
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/grannysmith.png
+  - name: gross
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/gross.png
+  - name: guard
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/guard.png
+  - name: hahaha
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/hahaha.png
+  - name: happyluna
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/happyluna.png
+  - name: hmmm
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/hmmm.png
+  - name: huhhuh
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/huhhuh.png
+  - name: joy
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/joy.png
+  - name: limestonegrin
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/limestonegrin.png
+  - name: louder
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/louder.png
+  - name: loveme
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/loveme.png
+  - name: lunagasp
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/lunagasp.png
+  - name: lunamad
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/lunamad.png
+  - name: lunasad
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/lunasad.png
+  - name: lunateehee
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/lunateehee.png
+  - name: lunawait
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/lunawait.png
+  - name: lyra
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/lyra.png
+  - name: macintears
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/macintears.png
+  - name: manspike
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/manspike.png
+  - name: maud
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/maud.png
+  - name: nightmaregrin
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/nightmaregrin.png
+  - name: nmm
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/nmm.png
+  - name: noooo
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/noooo.png
+  - name: notangry
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/notangry.png
+  - name: octavia
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/octavia.png
+  - name: ohcomeon
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/ohcomeon.png
+  - name: ohhi
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/ohhi.png
+  - name: ooh
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/ooh.png
+  - name: party
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/party.png
+  - name: photofinish
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/photofinish.png
+  - name: pinkamina
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/pinkamina.png
+  - name: pinkieawe
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/pinkieawe.png
+  - name: pinkiefear
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/pinkiefear.png
+  - name: pinkiepout
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/pinkiepout.png
+  - name: pinkiesad
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/pinkiesad.png
+  - name: ppboring
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/ppboring.png
+  - name: ppcute
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/ppcute.png
+  - name: ppdont
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/ppdont.png
+  - name: ppreally
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/ppreally.png
+  - name: ppseesyou
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/ppseesyou.png
+  - name: ppshrug
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/ppshrug.png
+  - name: priceless
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/priceless.png
+  - name: punchdrunk
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/punchdrunk.png
+  - name: rapathia
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/rapathia.png
+  - name: rarishock
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/rarishock.png
+  - name: rarityannoyed
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/rarityannoyed.png
+  - name: raritydaww
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/raritydaww.png
+  - name: raritydress
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/raritydress.png
+  - name: rarityeww
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/rarityeww.png
+  - name: raritygrump
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/raritygrump.png
+  - name: rarityjudge
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/rarityjudge.png
+  - name: raritynews
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/raritynews.png
+  - name: rarityprimp
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/rarityprimp.png
+  - name: rarityreally
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/rarityreally.png
+  - name: raritysad
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/raritysad.png
+  - name: raritytired
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/raritytired.png
+  - name: raritywhine
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/raritywhine.png
+  - name: raritywhy
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/raritywhy.png
+  - name: raritywut
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/raritywut.png
+  - name: rarityyell
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/rarityyell.png
+  - name: rdannoyed
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/rdannoyed.png
+  - name: rdcool
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/rdcool.png
+  - name: rdcry
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/rdcry.png
+  - name: rdhappy
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/rdhappy.png
+  - name: rdhuh
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/rdhuh.png
+  - name: rdsalute
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/rdsalute.png
+  - name: rdscared
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/rdscared.png
+  - name: rdsitting
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/rdsitting.png
+  - name: rdsmile
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/rdsmile.png
+  - name: rdsnrk
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/rdsnrk.png
+  - name: rdwut
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/rdwut.png
+  - name: sbbook
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/sbbook.png
+  - name: sbshocked
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/sbshocked.png
+  - name: sbstare
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/sbstare.png
+  - name: sbwtf
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/sbwtf.png
+  - name: scootablue
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/scootablue.png
+  - name: scootacheer
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/scootacheer.png
+  - name: scootaderp
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/scootaderp.png
+  - name: scootaeww
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/scootaeww.png
+  - name: scootaloo
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/scootaloo.png
+  - name: scootaplease
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/scootaplease.png
+  - name: shiningarmor
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/shiningarmor.png
+  - name: shiningpride
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/shiningpride.png
+  - name: silverspoon
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/silverspoon.png
+  - name: skeptiloo
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/skeptiloo.png
+  - name: smooze
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/smooze.png
+  - name: snails
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/snails.png
+  - name: sneakybelle
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/sneakybelle.png
+  - name: soawesome
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/soawesome.png
+  - name: sombra
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/sombra.png
+  - name: sotrue
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/sotrue.png
+  - name: spikeapproves
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/spikeapproves.png
+  - name: spikehappy
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/spikehappy.png
+  - name: spikemeh
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/spikemeh.png
+  - name: spikenervous
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/spikenervous.png
+  - name: spikepushy
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/spikepushy.png
+  - name: spikewhoa
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/spikewhoa.png
+  - name: spikewtf
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/spikewtf.png
+  - name: spitfire
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/spitfire.png
+  - name: squintyjack
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/squintyjack.png
+  - name: starlightrage
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/starlightrage.png
+  - name: sunsetshimmer
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/sunsetshimmer.png
+  - name: sunsetsneaky
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/sunsetsneaky.png
+  - name: swagintosh
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/swagintosh.png
+  - name: takealetter
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/takealetter.png
+  - name: thcalm
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/thcalm.png
+  - name: thehorror
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/thehorror.png
+  - name: trixiesad
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/trixiesad.png
+  - name: trixiesmug
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/trixiesmug.png
+  - name: troubleshoes
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/troubleshoes.png
+  - name: twibeam
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/twibeam.png
+  - name: twicrazy
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/twicrazy.png
+  - name: twidaw
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/twidaw.png
+  - name: twipbbt
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/twipbbt.png
+  - name: twiponder
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/twiponder.png
+  - name: twipride
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/twipride.png
+  - name: twirage
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/twirage.png
+  - name: twiright
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/twiright.png
+  - name: twisad
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/twisad.png
+  - name: twisecret
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/twisecret.png
+  - name: twismile
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/twismile.png
+  - name: twismug
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/twismug.png
+  - name: twisquint
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/twisquint.png
+  - name: twistare
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/twistare.png
+  - name: wahaha
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/wahaha.png
+  - name: wasntme
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/wasntme.png
+  - name: whattheflut
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/whattheflut.png
+  - name: whooves
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/whooves.png
+  - name: zecora
+    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/emoji/zecora.png
