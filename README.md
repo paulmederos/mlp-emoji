@@ -25,7 +25,7 @@ Emoji For Slack
 
     ![r/mylittlepony Slack Preview](r-mylittlepony Slack.png)
 
- - [r-mlplounge Slack.yml](r-mlplounge Slack.yml)
+ - [r-mlplounge Slack.yml](r-mlplounge Slack.yml) (With Fillies  and Moustashes!)
 
     ![r/mlplounge Slack Preview](r-mlplounge Slack.png)
 
