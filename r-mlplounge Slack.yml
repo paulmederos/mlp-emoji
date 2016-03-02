@@ -19,8 +19,6 @@ emojis:
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/ajcower.png
   - name: ajcry-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/ajcry.png
-  - name: ajdoubt-l
-    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/ajdoubt.png
   - name: ajfrown-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/ajfrown.png
   - name: ajhappy-l
@@ -55,8 +53,6 @@ emojis:
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/bonbon.png
   - name: bulkbiceps-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/bulkbiceps.png
-  - name: cadance-l
-    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/cadance.png
   - name: cadancesmile-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/cadancesmile.png
   - name: celestia-l
@@ -191,14 +187,8 @@ emojis:
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/fluttercry.png
   - name: flutterfear-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/flutterfear.png
-  - name: flutterhay-l
-    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/flutterhay.png
   - name: flutterjerk-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/flutterjerk.png
-  - name: flutterkay-l
-    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/flutterkay.png
-  - name: flutternice-l
-    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/flutternice.png
   - name: flutterroll-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/flutterroll.png
   - name: fluttershh-l
@@ -215,8 +205,6 @@ emojis:
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/flutteryay.png
   - name: gilda-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/gilda.png
-  - name: goodjob-l
-    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/goodjob.png
   - name: grannysmith-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/grannysmith.png
   - name: gross-l
@@ -239,16 +227,12 @@ emojis:
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/karmastare.png
   - name: lily
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/lily.png
-  - name: limestonegrin-l
-    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/limestonegrin.png
   - name: louder-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/louder.png
   - name: loveme-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/loveme.png
   - name: lunagasp-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/lunagasp.png
-  - name: lunamad-l
-    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/lunamad.png
   - name: lunasad-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/lunasad.png
   - name: lunateehee-l
@@ -265,14 +249,10 @@ emojis:
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/maud.png
   - name: minuette
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/minuette.png
-  - name: nightmaregrin-l
-    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/nightmaregrin.png
   - name: nmm-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/nmm.png
   - name: noooo-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/noooo.png
-  - name: notangry-l
-    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/notangry.png
   - name: octavia-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/octavia.png
   - name: ohcomeon-l
@@ -293,16 +273,12 @@ emojis:
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/pinkieawe.png
   - name: pinkieooh
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/pinkieooh.png
-  - name: pinkiepout-l
-    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/pinkiepout.png
   - name: pinkiesad-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/pinkiesad.png
   - name: ppboring-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/ppboring.png
   - name: ppcute-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/ppcute.png
-  - name: ppdont-l
-    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/ppdont.png
   - name: ppfear
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/ppfear.png
   - name: ppreally-l
@@ -323,8 +299,6 @@ emojis:
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/raritydress.png
   - name: rarityeww-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/rarityeww.png
-  - name: raritygrump-l
-    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/raritygrump.png
   - name: rarityjudge-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/rarityjudge.png
   - name: raritypaper
@@ -393,8 +367,6 @@ emojis:
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/shiningpride.png
   - name: silverspoon-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/silverspoon.png
-  - name: skeptiloo-l
-    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/skeptiloo.png
   - name: snails-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/snails.png
   - name: sneakybelle-l
@@ -405,8 +377,6 @@ emojis:
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/sombra.png
   - name: sotrue-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/sotrue.png
-  - name: spikeapproves-l
-    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/spikeapproves.png
   - name: spikehappy-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/spikehappy.png
   - name: spikemeh-l
@@ -425,12 +395,6 @@ emojis:
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/squintyjack.png
   - name: starlightrage-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/starlightrage.png
-  - name: sunsetshimmer-l
-    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/sunsetshimmer.png
-  - name: sunsetsneaky-l
-    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/sunsetsneaky.png
-  - name: swagintosh-l
-    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/swagintosh.png
   - name: takealetter-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/takealetter.png
   - name: thcalm-l
@@ -455,12 +419,8 @@ emojis:
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/twiponder.png
   - name: twipride-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/twipride.png
-  - name: twirage-l
-    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/twirage.png
   - name: twiright-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/twiright.png
-  - name: twisad-l
-    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/twisad.png
   - name: twisecret-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/twisecret.png
   - name: twismile-l
@@ -473,8 +433,6 @@ emojis:
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/twistare.png
   - name: wahaha-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/wahaha.png
-  - name: wasntme-l
-    src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/wasntme.png
   - name: whattheflut-l
     src: https://raw.githubusercontent.com/thorsummoner/MLP-Emoji-SlackHQ/master/r-mlplounge/whattheflut.png
   - name: whooves-l
